@@ -28,9 +28,7 @@ If you want to make some changes, Nokolino needs Arduino IDE 1.6.6 or newer (htt
 
 ```
 NOKO/
-├── howto_compile/
-|   Manual how compile the sketches in your Arduino IDE and precompiled sketched  
-|   └── precompiled/
+Root directory with some explanation files.  
 |
 ├── manual/
 |   NOKO manual in PDF format and a template for a packaging design.
