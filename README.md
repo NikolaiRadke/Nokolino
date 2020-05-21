@@ -52,6 +52,5 @@ NOKO/
 ```
 ### Let's get started!
 
-Interested in NOKOlino? Great! Let's start here:  
-[German wiki](https://github.com/NikolaiRadke/Nokolino/wiki).  
+Interested in NOKOlino? Great! Let's start here: [German wiki](https://github.com/NikolaiRadke/Nokolino/wiki).  
 English wiki will follow. One day...
