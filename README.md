@@ -47,10 +47,10 @@ NOKO/
 |
 └── src/
     ATtiny sketch
-    └── NOKOlino/
-        One file, no libraries, no frills. Just NOKOlino. 
+    └── Nokolino/
+        One file, no libraries, no frills. Just Nokolino. 
 ```
 ### Let's get started!
 
-Interested in NOKOlino? Great! Let's start here: [German wiki](https://github.com/NikolaiRadke/Nokolino/wiki).  
+Ready? Great! Let's start here: [German wiki](https://github.com/NikolaiRadke/Nokolino/wiki).  
 English wiki will follow. One day...
