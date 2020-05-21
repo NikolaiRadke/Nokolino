@@ -35,9 +35,9 @@ NOKO/
 |
 ├── mp3/
 |   Voice sets in German. English needed? Contribute!
-|   ├── male/
+|   ├── Nokolino/
 |   |   Male voice set, spoken by Carsten Caniglia.
-|   └── female/
+|   └── Nokolina/
 |       Female voice set, spoken by Norma Anthes
 |
 ├── schematics/
