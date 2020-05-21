@@ -1,12 +1,12 @@
 # ![Nokolino](http://www.nikolairadke.de/Nokolino/nokolino_back.jpg)
 
-The DIY-Kit Monster. Tiny and cute. And everyone is invited to **contribute**. NOKOlino is for everyone. This repository is for the **Kit (Bausatz)** edition of Nokolino, easy and fast to build.
+The DIY-Kit Monster. Tiny and cute. And everyone is invited to **contribute**. Nokolino is for everyone. This repository is for the **Kit (Bausatz)** edition of Nokolino, easy and fast to build.
   
 What's new? See the [newsblog](https://github.com/NikolaiRadke/Nokolino/tree/master/NEWS.md).   
 
 ![Three NOKOlinos](http://www.nikolairadke.de/Nokolino/nokolinos.png)
   
-Like his big brother **Noko**, the little NOKOlino delights it's surroundings with cheeky comments. But unlike Noko he is more obstinate - no radio, a display, no frills. Instead of an Arduino he has a small **ATtiny** microcontroller, only one on-off switch and a big button. But he is small, can stay active for days and is, in contrast to his big brother, very easy to build.  
+Like his big brother **Noko**, the little Nokoino delights it's surroundings with cheeky comments. But unlike Noko he is more obstinate - no radio, a display, no frills. Instead of an Arduino he has a small **ATtiny** microcontroller, only one on-off switch and a big button. But he is small, can stay active for days and is, in contrast to his big brother, very easy to build.  
   
 Another useful application option would be to use the hardware without the monster suit as a **music box** in an old used doll to bring it back to modern days, maybe with other sounds or songs.  
 
@@ -35,9 +35,9 @@ NOKO/
 |
 ├── mp3/
 |   Voice sets in German. English needed? Contribute!
-|   ├── male/
+|   ├── Nokolino/
 |   |   Male voice set, spoken by Carsten Caniglia.
-|   └── female/
+|   └── Nokolina/
 |       Female voice set, spoken by Norma Anthes
 |
 ├── schematics/
@@ -47,10 +47,10 @@ NOKO/
 |
 └── src/
     ATtiny sketch
-    └── NOKOlino/
-        One file, no libraries, no frills. Just NOKOlino. 
+    └── Nokolino/
+        One file, no libraries, no frills. Just Nokolino. 
 ```
 ### Let's get started!
 
-Interested in NOKOlino? Great! Let's start here: [German wiki](https://github.com/NikolaiRadke/Nokolino/wiki).  
+Ready? Great! Let's start here: [German wiki](https://github.com/NikolaiRadke/Nokolino/wiki).  
 English wiki will follow. One day...
