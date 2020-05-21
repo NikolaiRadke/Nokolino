@@ -20,7 +20,9 @@ Right now, the building wiki, the voice sets and the manual are in German. I'll 
   
 ### Prerequisites
   
-Except for some tools and time, the kit is ready to build. The ATtiny is preprogrammed and a the Nokolino male voice set is preinstalled. If you want to make some changes, Nokolino needs Arduino IDE 1.6.6 or newer (https://www.arduino.cc/en/Main/Software). Copy the folder `Nokolino/src/Nokolino/` into your sketch folder and install ATtiny support. See [how to compile](https://github.com/NikolaiRadke/Nokolino/tree/master/howto_compile) for further instructions. 
+Except for some tools and time, the kit is ready to build. The ATtiny is preprogrammed and a the Nokolino male voice set is preinstalled.  
+  
+If you want to make some changes, Nokolino needs Arduino IDE 1.6.6 or newer (https://www.arduino.cc/en/Main/Software). Copy the folder `Nokolino/src/Nokolino/` into your sketch folder and install ATtiny support. See [how to compile](https://github.com/NikolaiRadke/Nokolino/tree/master/HOW_TO_COMPILE.md) for further instructions. 
   
 ### Content
 
