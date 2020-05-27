@@ -1,6 +1,6 @@
 # ![Nokolino](http://www.nikolairadke.de/Nokolino/nokolino_back.jpg)
 
-The DIY-Kit Monster. Tiny and cute. And everyone is invited to **contribute**. Nokolino is for everyone. This repository is for the **Kit (Bausatz)** edition of Nokolino, easy and fast to build.
+The DIY-kit Monster. Tiny and cute. And everyone is invited to **contribute**. Nokolino is for everyone. This repository is for the **kit (Bausatz)** edition of Nokolino, easy and fast to build.
   
 What's new? See the [newsblog](https://github.com/NikolaiRadke/Nokolino/tree/master/NEWS.md).   
 
