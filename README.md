@@ -27,11 +27,11 @@ If you want to make some changes, Nokolino needs Arduino IDE 1.6.6 or newer (htt
 ### Content
 
 ```
-NOKO/
+Nokolino/
 Root directory with some explanation files.  
 |
 ├── manual/
-|   NOKO manual in PDF format and a template for a packaging design.
+|   Nokolino manual in PDF format and a printing version.
 |
 ├── mp3/
 |   Voice sets in German. English needed? Contribute!
@@ -41,7 +41,7 @@ Root directory with some explanation files.
 |       Female voice set, spoken by Norma Anthes
 |
 ├── schematics/
-|   The schematics for the PCB parts, the cab 3D-model and the sewing pattern.
+|   The circuit diagram, the cab 3D-model and the sewing pattern.
 |   └── gerber/
 |       The gerber files for the PCB to build by your own.
 |
