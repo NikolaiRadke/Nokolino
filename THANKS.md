@@ -12,7 +12,7 @@ These people helped me bringing life to NOKOlino:
 - **Jan Fanslau** - PCB rework and beer. Look at his [Projekts](https://janfanslau.com).  
 - **Helga Hansen** - for the Make Magazin for promoting NOKOlino.  
 - **Make Magazin** - for the Maker Faires and Kits.  
-- **Kristina Fischer - for distributing the Kits.
+- **Kristina Fischer** - and Heise Verlag for distributing the Kits.
   
 Active supporters:  
 
