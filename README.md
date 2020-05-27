@@ -41,7 +41,7 @@ Root directory with some explanation files.
 |       Female voice set, spoken by Norma Anthes
 |
 ├── schematics/
-|   The schematics for the PCB parts, the sewing pattern and a shopping list.
+|   The schematics for the PCB parts, the cab 3D-model and the sewing pattern.
 |   └── gerber/
 |       The gerber files for the PCB to build by your own.
 |
