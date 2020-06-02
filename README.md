@@ -38,7 +38,7 @@ Root directory with some explanation files.
 |   ├── Nokolino/
 |   |   Male voice set, spoken by Carsten Caniglia.
 |   └── Nokolina/
-|       Female voice set, spoken by Norma Anthes
+|       Female voice set, spoken by Norma Anthes.
 |
 ├── schematics/
 |   The circuit diagram, the cab 3D-model and the sewing pattern.
