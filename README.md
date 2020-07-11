@@ -6,7 +6,7 @@ The DIY-kit Monster. Tiny and cute. And everyone is invited to **contribute**. N
   
 What's new?  
 **11.07.2020** the kit is available, including tools and online workshop access. Look [here](https://maker-faire.de/workshops/bauset-workshops/). The workshops are dated on **23.07.2020** and **09.08.2020**.    
-More news? See the [newsblog](https://github.com/NikolaiRadke/Nokolino/tree/master/NEWS.md).   
+-- More news? See the [newsblog](https://github.com/NikolaiRadke/Nokolino/tree/master/NEWS.md).   
 
 ![Three NOKOlinos](http://www.nikolairadke.de/Nokolino/nokolinos.png)
   
