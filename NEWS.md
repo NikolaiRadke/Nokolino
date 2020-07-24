@@ -2,7 +2,7 @@
 
 # 2020  
   
-* **11.07.2020** The workshops are dated on **23.07.2020** and **09.08.2020**.  
+* **11.07.2020** The workshop is dated on **23.07.2020**.  
 * **10.07.2020** Tested new IDE 1.8.13. Works good.  
 * **25.06.2020** New firmware **3.1-250620**: Music box mode now plays more than one file.   
 * **23.06.2020** The kit and the workshop ticket are now available at [heise shop!](https://maker-faire.de/workshops/bauset-workshops/) Cheers!  
