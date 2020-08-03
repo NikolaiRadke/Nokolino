@@ -5,7 +5,7 @@
 * **11.07.2020** The workshop is dated on **23.07.2020**.  
 * **10.07.2020** Tested new IDE 1.8.13. Works good.  
 * **25.06.2020** New firmware **3.1-250620**: Music box mode now plays more than one file.   
-* **23.06.2020** The kit and the workshop ticket are now available at [heise shop!](https://maker-faire.de/workshops/bauset-workshops/) Cheers!  
+* **23.06.2020** The kit and the workshop ticket are now available at [heise shop!](https://shop.heise.de/katalog/nokolino-bauset) Cheers!  
 * **01.06.2020** Finished the German Wiki.  
 * **28.05.2020** Launched release V1.0.  
 * **27.05.2020** Nokolino is ready! Enjoy!  
