@@ -5,7 +5,7 @@ The DIY-kit Monster. Tiny and cute. And everyone is invited to **contribute**. N
 *Huch, Englisch? Kann ich nicht. Schnell [hier hin](https://github.com/NikolaiRadke/Nokolino/wiki)*.  
   
 What's new?  
-**11.07.2020** the kit is available, including tools. Look at Heise Shop [here](https://shop.heise.de/katalog/nokolino-bauset).   
+**27.08.2020** Kit including tools and tutorial are available. Look at Heise Shop [here](https://shop.heise.de/katalog/nokolino-paket-bausatz-video-tutorial).   
 -- More news? See the [newsblog](https://github.com/NikolaiRadke/Nokolino/tree/master/NEWS.md).   
 
 ![Three NOKOlinos](http://www.nikolairadke.de/Nokolino/nokolinos.png)
