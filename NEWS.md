@@ -2,7 +2,7 @@
 
 # 2020  
   
-* **27.08.2020** The kit and the tutorial are available at [heise shop!](https://shop.heise.de/katalog/nokolino-paket-bausatz-video-tutorial)  
+* **27.08.2020** The kit and the tutorial are available at [heise shop!](https://shop.heise.de/katalog/nokolino-workshop-maker-faire-20)  
 * **23.07.2020** Thank you to all the visitors in the workshop!  
 * **11.07.2020** The workshop is dated on **23.07.2020**.  
 * **10.07.2020** Tested new IDE 1.8.13. Works good.  
