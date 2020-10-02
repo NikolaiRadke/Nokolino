@@ -3,7 +3,7 @@
  *  Sketch for Mini-Noko-Monster with new JQ8400 module
  *  For ATtiny45/85 - set to 8 Mhz and remember to flash your bootloader first
  *  
- *  Flash-Usage: 3.972 (IDE 1.8.12 | AVR 1.8.2 | ATtiny 1.0.2 | Linux X86_64 | ATtiny85 )
+ *  Flash-Usage: 3.972 (IDE 1.8.13 | AVR 1.8.3 | ATtiny 1.0.2 | Linux X86_64 | ATtiny85 )
  *  
  *  Circuit:
  *  1: RST | PB5  free
@@ -110,9 +110,8 @@ init(); {
   mp3.write((uint8_t) 0x00);
   mp3.write(0xB6);
   newdelay(100);
-  for (seed=0;seed<6;seed++) {         // Read 6 HEX chars from module
+  for (seed=0;seed<6;seed++)           // Read 6 HEX chars from module
     files_byte[seed]=(uint8_t) mp3.read();// and convert the chars into uint8_t
-  }
   files=16*files_byte[3]+files_byte[4];// Convert 2 bytes into uint16_t
 
   // Nokolino mode | else Music box mode
@@ -121,7 +120,7 @@ init(); {
     address=eeprom_read_word(0);       // Read EEPROM address
     if ((address<2) || (address>(EEPROM.length()-3))) {           
     // Initialize EEPROM and size for first use or after end of cycle
-      address = 2;                     // Starting address
+      address=2  ;                     // Starting address
       eeprom_write_word(0,address);    // Write starting address
       eeprom_write_word(address,0);    // Write seed 0
     }
@@ -154,12 +153,12 @@ while(1) {
     if (!(PINB & (1<<PB0))) {          // If button is pressed then
       if (dark) {                      // if fototransistor is available
         #ifdef SleepComplain           // and complain feature enabled
-          if (files==Time_event+1) {   // and not in music box mode
+          if (files==Time_event+1)     // and not in music box mode
             JQ8400_play(Time_event);   // complain when button pressed
-          }
         #endif
       }
-      else if (files==Time_event+1) JQ8400_play(random(0,Button_event+1)); // Button event
+      else if (files==Time_event+1) 
+        JQ8400_play(random(0,Button_event+1)); // Button event
       else {
             JQ8400_play(address);       // or single music box files 
             (address==files)? address=1:address++;
@@ -198,9 +197,10 @@ void JQ8400_play(uint8_t f) {          // Plays MP3 file
   mp3.write(f);
   mp3.write((uint8_t) 179+f);          // Calculate und wirte checksum
   newdelay(100);
-  while (analogRead(A2)>maxInput) attiny_sleep(); // Check busy
+  while (analogRead(A2)>maxInput) 
+    attiny_sleep();                    // Check busy
   newdelay(100);
- }
+}
 
 void attiny_sleep() {                  // Sleep to save power  
   cbi(ADCSRA,ADEN);                    // Switch ADC off
@@ -209,8 +209,7 @@ void attiny_sleep() {                  // Sleep to save power
   sbi(ADCSRA,ADEN);                    // Switch ADC on
 }
 
-void newdelay(uint16_t z)              // New delay function to save flash
-{
+void newdelay(uint16_t z) {            // New delay function to save flash
   uint32_t zmillis=millis();
   while (millis()-zmillis<z);
 }
