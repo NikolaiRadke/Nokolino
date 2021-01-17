@@ -2,7 +2,7 @@
 
 # 2020  
 
-* **17.01.2021** Only 13 kits are left in the [heise shop!](https://shop.heise.de/katalog/nokolino-workshop-maker-faire-20).  
+* **17.01.2021** Only 13 kits are left in the [heise shop!](https://shop.heise.de/nokolino-bauset).  
 * **02.01.2021** Happy new year for everyone! 
 * **27.08.2020** The kit and the tutorial are available at [heise shop!](https://shop.heise.de/katalog/nokolino-workshop-maker-faire-20).  
 * **23.07.2020** Thank you to all the visitors in the workshop!  
