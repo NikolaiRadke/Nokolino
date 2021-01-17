@@ -5,7 +5,7 @@ The DIY-kit Monster. Tiny and cute. And everyone is invited to **contribute**. N
 *Huch, Englisch? Kann ich nicht. Schnell [hier hin](https://github.com/NikolaiRadke/Nokolino/wiki)*.  
   
 What's new?  
-**21.01.2021** Only 13 kits are left. Look at Heise Shop [here](https://shop.heise.de/katalog/nokolino-paket-bausatz-video-tutorial).   
+**21.01.2021** Only 13 kits are left. Look at Heise Shop [here](https://shop.heise.de/nokolino-bauset).   
 -- More news? See the [newsblog](https://github.com/NikolaiRadke/Nokolino/tree/master/NEWS.md).   
 
 ![Three NOKOlinos](http://www.nikolairadke.de/Nokolino/nokolinos.png)
