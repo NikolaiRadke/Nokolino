@@ -1,7 +1,7 @@
 # Newsblog
 
 # 2023
-* **18.03.2023** Fixed a bug that prevented resetting the battery low flag. Updated all Firmwares to **X.X-180323**. 
+* **18.03.2023** Fixed a bug that prevented resetting the battery low flag. Updated all Firmwares to **3.1-180323**. 
 
 # 2022
 * **31.12.2022** Happy new year for everyone! 2023 i will try looking for a partner company for new kits.  
