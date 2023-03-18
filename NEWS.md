@@ -1,7 +1,14 @@
 # Newsblog
 
+# 2023
+* **18.03.2023** Fixed a bug that prevented resetting the battery low flag. Updated all Firmwares to **X.X-180323**. 
+
+# 2022
+* **31.12.2022** Happy new year for everyone! 2023 i will try looking for a partner company for new kits.  
+
 # 2021  
 
+* **31.03.2021** Finally, alss kits are sold out. Thank you to all Nokolino fans out there!
 * **17.01.2021** Only 13 kits are left in the [heise shop!](https://shop.heise.de/nokolino-bauset).  
 * **02.01.2021** Happy new year for everyone! 
 
