@@ -8,7 +8,7 @@
 
 # 2021  
 
-* **31.03.2021** Finally, alss kits are sold out. Thank you to all Nokolino fans out there!
+* **31.03.2021** Finally, all kits are sold out. Thank you to all Nokolino fans out there!
 * **17.01.2021** Only 13 kits are left in the [heise shop!](https://shop.heise.de/nokolino-bauset).  
 * **02.01.2021** Happy new year for everyone! 
 
