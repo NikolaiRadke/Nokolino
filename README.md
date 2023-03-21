@@ -5,7 +5,7 @@ The DIY-kit Monster. Tiny and cute. And everyone is invited to **contribute**. N
 *Huch, Englisch? Kann ich nicht. Schnell [hier hin](https://github.com/NikolaiRadke/Nokolino/wiki)*.  
   
 What's new?  
-**18.05.2021** Alas, Nokolino is sold out. Look at Heise Shop [here](https://shop.heise.de/nokolino-bauset). Perhaps in future there will be another distributor.  
+**31.03.2021** Alas, Nokolino is sold out. Look at Heise Shop [here](https://shop.heise.de/nokolino-bauset). Perhaps in future there will be another distributor.  
 -- More news? See the [newsblog](https://github.com/NikolaiRadke/Nokolino/tree/master/NEWS.md).   
 
 ![Three NOKOlinos](http://www.nikolairadke.de/Nokolino/nokolinos.png)
