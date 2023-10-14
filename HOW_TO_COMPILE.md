@@ -21,8 +21,8 @@ In order to flash your ATtiny with the NOKOlino-sketch, you need the **Arduino-I
 ### Connecting your ATtiny with the Arduino  
 
 1. Disconnect your Arduino.
-2. Connect your ATtiny as seen below
-3. Add the 10uF Capacitor    
+2. Connect your ATtiny as seen below.
+3. Add the 10uF Capacitor.    
   
 ![ATTINY-ARDUINO](http://www.nikolairadke.de/NOKOlino_2/attiny_steckplatine.png)  
   
