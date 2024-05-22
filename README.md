@@ -1,5 +1,7 @@
 # ![Nokolino](http://www.nikolairadke.de/Nokolino/nokolino_back.jpg)
 
+**Klappriger Blubberfetzen** *Nervendes Riesenungemach* **Windigie Pupswindel**  
+  
 The DIY-kit Monster. Tiny and cute. And everyone is invited to **contribute**. Nokolino is for everyone. This repository is for the **kit (Bausatz)** edition of Nokolino, easy and fast to build.  
   
 *Huch, Englisch? Kann ich nicht. Schnell [hier hin](https://github.com/NikolaiRadke/Nokolino/wiki)*.  
