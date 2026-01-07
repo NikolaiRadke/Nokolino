@@ -57,4 +57,3 @@ Root directory with some explanation files.
 ### Let's get started!
 
 Ready? Great! Let's start here: [German wiki](https://github.com/NikolaiRadke/Nokolino/wiki).  
-English wiki will follow. One day...
